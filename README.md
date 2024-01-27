@@ -12,7 +12,7 @@ Understanding and predicting purchase power is crucial for businesses seeking to
 
 1. **Data Collection and Cleaning:**
    - Compiled a dataset with essential features such as age, estimated salary, and purchase history.
-   - Employed data cleaning techniques to handle missing values, outliers, and ensure data consistency.
+   - Employed data cleaning techniques to handle missing values, and outliers, and ensure data consistency.
    - Ensured the dataset's reliability for accurate predictions.
 
 2. **Data Visualization:**
