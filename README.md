@@ -1,4 +1,4 @@
-# Purchase-Power-Prediction
+# Purchase-Power
 **Project Title: Purchase Power Prediction based on Salary**
 
 **Overview:**
