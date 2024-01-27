@@ -3,7 +3,7 @@
 **Project Title: Purchase Power Prediction based on Salary**
 
 **Overview:**
-The "Purchase Power Prediction based on Salary" project aims to develop a predictive model that estimates an individual's purchasing power based on their age, estimated salary, and historical purchase behavior. By leveraging data cleaning, visualization, and a variety of machine learning models, the project provides valuable insights into consumer spending patterns. The utilization of hyperparameter tuning and RandomSearch CV 1 enhances the models' performance, ensuring accurate and efficient predictions.
+The "Purchase Power Prediction based on Salary" project aims to develop a predictive model that estimates an individual's purchasing power based on their age, estimated salary, and historical purchase behaviour. By leveraging data cleaning, visualization, and a variety of machine learning models, the project provides valuable insights into consumer spending patterns. The utilization of hyperparameter tuning and RandomSearch CV 1 enhances the models' performance, ensuring accurate and efficient predictions.
 
 **Business Perspective:**
 Understanding and predicting purchase power is crucial for businesses seeking to tailor their marketing and sales strategies. By accurately estimating an individual's purchasing capacity, businesses can optimize their offerings, pricing, and promotions. This project provides a valuable tool for businesses to target their products or services to the right audience, maximizing customer satisfaction and enhancing overall sales performance.
